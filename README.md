@@ -33,7 +33,3 @@ Here are the npm packages utilized in the project:
 - **SweetAlert2:** To display toast notifications for user feedback.
 
 
-## 🚀 How to Run the Project Locally
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/programming-hero-web-course1/b10-a9-authentication-RaihanSoft.git
